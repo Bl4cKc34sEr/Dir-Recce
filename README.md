@@ -54,6 +54,3 @@ To use the app, just run the path_visualizer.py file, and select the start and e
  
  <h3>Developer</h3> 
  https://www.github.com/Bl4cKc34sEr
-
- <h4>Contributor</h4>
- @shiv-searce
